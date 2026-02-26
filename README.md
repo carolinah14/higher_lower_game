@@ -22,7 +22,7 @@ A Python console-based “Higher or Lower” game where the user compares two In
 
 6. Run the script using:
 
-   python higher_lower_game.py
+   python higher_or_lower.py
 
 7. Follow the on-screen prompts to play the game.
 
