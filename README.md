@@ -10,11 +10,11 @@ A Python console-based “Higher or Lower” game where the user compares two In
 
 3. Ensure all files are in the same folder:
 
-higher_or_lower.py
+    higher_or_lower.py
 
-art.py
+    art.py
 
-game_data.py
+    game_data.py
 
 4. Open a terminal (or your preferred Python IDE).
 
